@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  DesignPattern
-//
-//  Created by Emmanuel Okwara on 11/12/2021.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {

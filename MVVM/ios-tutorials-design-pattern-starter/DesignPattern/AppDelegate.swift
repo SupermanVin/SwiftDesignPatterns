@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  DesignPattern
-//
-//  Created by Emmanuel Okwara on 11/12/2021.
-//
-
 import UIKit
 
 @main

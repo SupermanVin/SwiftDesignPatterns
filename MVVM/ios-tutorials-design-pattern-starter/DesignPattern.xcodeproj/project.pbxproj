@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0682FDE12885BFA40019EFE6 /* LoginStatus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0682FDE02885BFA40019EFE6 /* LoginStatus.swift */; };
 		0D4136CB2862FFE90085250C /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4136CA2862FFE90085250C /* User.swift */; };
 		0D4136CD286300500085250C /* LoginViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4136CC286300500085250C /* LoginViewModel.swift */; };
 		0D4136D0286311890085250C /* ObservableObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4136CF286311890085250C /* ObservableObject.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0682FDE02885BFA40019EFE6 /* LoginStatus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginStatus.swift; sourceTree = "<group>"; };
 		0D4136CA2862FFE90085250C /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		0D4136CC286300500085250C /* LoginViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewModel.swift; sourceTree = "<group>"; };
 		0D4136CF286311890085250C /* ObservableObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservableObject.swift; sourceTree = "<group>"; };
@@ -84,6 +86,7 @@
 				1296C1E92764177800CC9685 /* LaunchScreen.storyboard */,
 				1296C1EC2764177800CC9685 /* Info.plist */,
 				0D4136CA2862FFE90085250C /* User.swift */,
+				0682FDE02885BFA40019EFE6 /* LoginStatus.swift */,
 				0D4136CF286311890085250C /* ObservableObject.swift */,
 				0D4136D32863149B0085250C /* NetworkService.swift */,
 			);
@@ -168,6 +171,7 @@
 				1296C1E12764177600CC9685 /* SceneDelegate.swift in Sources */,
 				0D4136D0286311890085250C /* ObservableObject.swift in Sources */,
 				0D4136CB2862FFE90085250C /* User.swift in Sources */,
+				0682FDE12885BFA40019EFE6 /* LoginStatus.swift in Sources */,
 				1296C1F52764196700CC9685 /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
